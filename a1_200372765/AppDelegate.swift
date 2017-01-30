@@ -8,7 +8,7 @@
 
 import UIKit
 
-@UIApplicationMain
+@UIApplicationMain //attribute equivalent as main function of app provides entry point and run loop to monitor events
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
